@@ -1,0 +1,5 @@
+To:sawai-kahiro@genmaikoso.co.jp
+From:system.s9tfic4b+docker-lamp@gmail.com
+Subject: Test
+
+This is a test mail.
